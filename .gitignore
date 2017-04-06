@@ -1,0 +1,7 @@
+*.jpg
+*.h5
+*.whl
+.idea/*.*
+project/.ipynb_checkpoints/*.*
+output_images/*
+
